@@ -51,8 +51,8 @@ I'm studying **Media Informatics** at University of Applied Science RheinMain in
 
 | Project | What it is | Tech |
 |---|---|---|
-| **[SecuArt](https://github.com/<USERNAME>/<REPO>)** | `<1–2 Sätze: Worum geht es bei SecuArt?>` | `<Technologien>` |
-| **[Personal app (in development)](https://github.com/<USERNAME>/<REPO>)** | `<1–2 Sätze: Was soll die App können?>` | `<Technologien>` |
+| **[SecuArt](https://github.com/<USERNAME>/<REPO>)** | `<UX/UI concept for a museum security platform, featuring responsive designs and an interactive Figma prototype>` | `<Technologien>` |
+| **[MAYDAY(in development)](https://github.com/<USERNAME>/<REPO>)** | `< Computer game: a cockpit-view space shooter where players repel hostile invaders while rescuing stranded crew members under time pressure.>` | `<Technologien>` |
 
 ---
 
