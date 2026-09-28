@@ -53,6 +53,8 @@ I'm studying **Media Informatics** at University of Applied Science RheinMain in
 |---|---|---|
 | **[MoodPlayer](https://github.com/<USERNAME>/<REPO>)** | `Music player with a JavaFX interface for managing and playing MP3 files based on the user's mood.` | `Java 21, JavaFX` |
 | **[SecuArt](https://github.com/<USERNAME>/<REPO>)** | `<UX/UI concept for a museum security platform, featuring responsive designs and an interactive Figma prototype>` | `<Figma>` |
+| **[SortiFX](https://github.com/<USERNAME>/<REPO>)** | `Desktop application for designing and simulating baggage sorting systems, including route validation and animated baggage transport.` | `Java 21, JavaFX, Gradle` |
+| **[Classifieds Platform](https://github.com/<USERNAME>/<REPO>)** | `Full-stack classifieds platform for creating and managing listings, with a REST API and real-time updates.` | `Java 21, Spring Boot, JPA, H2, Vue.js, TypeScript, WebSockets` |
 | **[MAYDAY(in development)](https://github.com/<USERNAME>/<REPO>)** | `< Computer game: a cockpit-view space shooter where players repel hostile invaders while rescuing stranded crew members under time pressure.>` | `<C#>` |
 
 ---
