@@ -51,8 +51,9 @@ I'm studying **Media Informatics** at University of Applied Science RheinMain in
 
 | Project | What it is | Tech |
 |---|---|---|
-| **[SecuArt](https://github.com/<USERNAME>/<REPO>)** | `<UX/UI concept for a museum security platform, featuring responsive designs and an interactive Figma prototype>` | `<Technologien>` |
-| **[MAYDAY(in development)](https://github.com/<USERNAME>/<REPO>)** | `< Computer game: a cockpit-view space shooter where players repel hostile invaders while rescuing stranded crew members under time pressure.>` | `<Technologien>` |
+| **[MoodPlayer](https://github.com/<USERNAME>/<REPO>)** | `Music player with a JavaFX interface for managing and playing MP3 files based on the user's mood.` | `Java 21, JavaFX` |
+| **[SecuArt](https://github.com/<USERNAME>/<REPO>)** | `<UX/UI concept for a museum security platform, featuring responsive designs and an interactive Figma prototype>` | `<Figma>` |
+| **[MAYDAY(in development)](https://github.com/<USERNAME>/<REPO>)** | `< Computer game: a cockpit-view space shooter where players repel hostile invaders while rescuing stranded crew members under time pressure.>` | `<C#>` |
 
 ---
 
