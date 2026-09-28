@@ -5,7 +5,7 @@
   University of Applied Science RheinMain, Wiesbaden, Germany</p>
   
 <p align="center">
-  📍Currently at University of Massachusetts Boston, USA </p>
+  📍Currently doing a semester abroad at University of Massachusetts Boston, USA </p>
 
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm studying **Media Informatics** at Hochschule RheinMain in Wiesbaden and enjoy building software, from the first idea to a working application.
+I'm studying **Media Informatics** at University of Applied Science RheinMain in Germany and enjoy building software, from the first idea to a working application.
 
 - 🎓 Studying Media Informatics (B.Sc.) at Hochschule RheinMain
 - 👩‍🏫 Working as a tutor, which trains me to explain complex topics clearly
@@ -42,6 +42,8 @@ I'm studying **Media Informatics** at Hochschule RheinMain in Wiesbaden and enjo
 **Frameworks**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
