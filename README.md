@@ -64,4 +64,4 @@ I'm studying **Media Informatics** at University of Applied Science RheinMain in
 Feel free to reach out about internships, collaborations, or projects.
 
 💼 [LinkedIn](https://www.linkedin.com/in/lilian-do-4040b243a/)
-📧 [Email](mailto:liliando179@gmail.com)
+📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=liliando179@gmail.com)
