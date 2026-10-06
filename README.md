@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lilian-do-4040b243a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/liliando1709/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=liliando179@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -63,5 +63,5 @@ I'm studying **Media Informatics** at University of Applied Science RheinMain in
 
 Feel free to reach out about internships, collaborations, or projects.
 
-💼 [LinkedIn](https://www.linkedin.com/in/lilian-do-4040b243a/)
+💼 [LinkedIn](https://www.linkedin.com/in/liliando1709/)
 📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=liliando179@gmail.com)
