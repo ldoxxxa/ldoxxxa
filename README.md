@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm studying **Media Informatics** at RheinMain University of Applied Sciences in Germany. My skills include frontend, web and app development, UX/UI design, and software engineering. Through my university projects, I have gained practical experience in building user interfaces, developing backend services, and designing application architectures.
+I'm studying **Media Informatics** at RheinMain University of Applied Sciences in Germany. My skills include frontend, web and app development, UX/UI design, and software engineering. Through my university projects, I have gained practical experience in building user interfaces, developing backend services and designing application architectures.
 
 - 🎓 Studying Media Informatics (B.Sc.) at Hochschule RheinMain
 - 👩‍🏫 Working as a tutor, which trains me to explain complex topics clearly
