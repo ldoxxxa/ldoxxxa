@@ -26,7 +26,7 @@ I'm studying **Media Informatics** at University of Applied Science RheinMain in
 
 ---
 
-## 🛠️ Technical skills
+## Technical skills
 
 **Languages**
 
