@@ -49,13 +49,13 @@ I'm studying **Media Informatics** at University of Applied Science RheinMain in
 
 ## Projects
 
-| Project | What it is | Tech |
-|---|---|---|
-| **[MoodPlayer](https://github.com/ldoxxxa/MoodPlayer)** | `Music player with a JavaFX interface for managing and playing MP3 files based on the user's mood.` | `Java 21, JavaFX` |
-| **[SecuArt](https://github.com/ldoxxxa/SecuArt)** | `<UX/UI concept for a museum security platform, featuring responsive designs and an interactive Figma prototype>` | `<Figma>` |
-| **[SortiFX](https://github.com/<USERNAME>/<REPO>)** | `Desktop application for designing and simulating baggage sorting systems, including route validation and animated baggage transport.` | `Java 21, JavaFX, Gradle` |
-| **[Classifieds Platform](https://github.com/<USERNAME>/<REPO>)** | `Full-stack classifieds platform for creating and managing listings, with a REST API and real-time updates.` | `Java 21, Spring Boot, JPA, H2, Vue.js, TypeScript, WebSockets` |
-| **[MAYDAY(in development)](https://github.com/<USERNAME>/<REPO>)** | `< Computer game: a cockpit-view space shooter where players repel hostile invaders while rescuing stranded crew members under time pressure.>` | `<C#>` |
+| Project | Description | Technologies |
+| --- | --- | --- |
+| **[MoodPlayer](https://github.com/ldoxxxa/MoodPlayer)** | Desktop music player that filters songs based on the user's mood and creates a matching playlist. | Java, JavaFX, Gradle |
+| **[SecuArt](https://github.com/ldoxxxa/SecuArt)** | UI/UX concept for a museum security platform, featuring responsive designs and an interactive prototype. | Figma |
+| **[SortiFX](https://github.com/ldoxxxa/SortiFix)** | Baggage sorting simulator with a visual editor for creating and testing conveyor systems. | Java, JavaFX, Gradle |
+| **[Classifieds Platform](https://github.com/ldoxxxa/Classifieds-Platform)** | Full-stack web application for browsing and managing classified ads, with real-time updates. | Vue.js, TypeScript, Spring Boot, H2, Gradle |
+| **MAYDAY (in development)** | Cockpit-view space shooter where players repel hostile invaders while rescuing stranded crew members under time pressure. | C# |
 
 ---
 
